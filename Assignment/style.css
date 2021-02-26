@@ -1,0 +1,64 @@
+#left{
+    width: 31%;
+    margin: 50 0 0 50;
+    /* float: left; */
+    /* color:#49a5bf; */
+}
+img{
+    width: 85%;
+    max-width: 330px
+}
+.main{
+    font-size: 3em;
+    
+}
+.mission{
+    font-size: 15px;
+    float:left;
+    /* color:#fff; */
+}
+.flipper{
+    background-color:#004da3; 
+    perspective: 1000px;
+    max-width: 385px;
+    border-radius: 6px;
+    color:#fff;
+}
+.flipper-text{
+    font-size:15px;
+    padding:9px;
+  
+}
+#right{
+    float:right;
+}
+/* .invite_container{
+    max-width:165px ;
+} */
+.group_input input[type=text] {
+    width: 100%;
+    padding:10px 9px;
+    border-radius:4px;
+    /* border-radius: ; */
+    border-style: none;
+
+    
+}
+body{
+    background: linear-gradient(
+        180deg
+        ,rgba(3,135,209,1) 0%,rgba(1,85,132,1) 100%);
+    
+        color: #fff;
+        /* font: 10px "Roboto","Cambria","lucida grande","lucida sans",Geneva,"sans-serif",tahoma,helvetica,arial; */
+        /* line-height: 20px;
+        width: 100%; */
+ 
+    }
+.link {
+    text-decoration: none;
+    color: #fff;
+}
+.bg_cloud_canvas{
+    height:152%;
+}
